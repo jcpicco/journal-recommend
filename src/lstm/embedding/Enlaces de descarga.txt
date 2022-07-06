@@ -1,0 +1,3 @@
+PubMed-w2v.bin (https://drive.google.com/file/d/1wDfdFHR-pdGsAV8Nte9Bjx-SCibj5EPG/view?usp=sharing)
+
+PubMed-w2v.txt (https://drive.google.com/file/d/1UD5HQO7PD6RX5xRbeTPuDUy_xDOrS4ru/view?usp=sharing)

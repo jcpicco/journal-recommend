@@ -1,0 +1,23 @@
+data.csv (https://drive.google.com/file/d/13IqlRoQnV6LhZhnKqdwcSO5AoEGGiCDd/view?usp=sharing)
+
+json-files/*.json (https://drive.google.com/file/d/1ZQ_lUghjv0FYv515c8noO2Co2fSgU70u/view?usp=sharing)
+
+data-limpia.csv (https://drive.google.com/file/d/1CYYmpHrfjUt2-dJfLefQp31_H2rQovPC/view?usp=sharing)
+
+data-preprocesada-lstm.csv (https://drive.google.com/file/d/1jwPuObfPe_R2gF6aE1KQ42-fI2zuyJxS/view?usp=sharing)
+
+---
+
+train/data-train-lstm.csv (https://drive.google.com/file/d/1nDS1bIAQFv0y1JUfMUVkdm4kzgUElfBF/view?usp=sharing)
+
+train/data-fulltext-train-lstm.csv (https://drive.google.com/file/d/16S9igOi3Tn25ThvWS033mszp7IemyD5c/view?usp=sharing)
+
+train/data-train.csv (https://drive.google.com/file/d/11LOR_CmfyqpQ6WLTxBL1YYaBIJK56pGR/view?usp=sharing)
+
+train/data-fulltext-train.csv(https://drive.google.com/file/d/1k-LQlLTQFgLK3vGKYfEyuvJ7vBUrxahu/view?usp=sharing)
+
+---
+
+test/data-test-lstm.csv (https://drive.google.com/file/d/1QKCkh-JXbLXfuhNT1fiJdbQ06niWvdX0/view?usp=sharing)
+
+test/data-test.csv (https://drive.google.com/file/d/1vBJ2W7UPSobwKe0WrBzNJeNV06q3TkL-/view?usp=sharing)
